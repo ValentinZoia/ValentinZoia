@@ -26,7 +26,7 @@
   <a href="mailto:valentinzoia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/valentín-zoia-1533b32a1" target="_blank">
+  <a href="https://www.linkedin.com/in/valent%C3%ADn-zoia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
