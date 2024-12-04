@@ -14,10 +14,10 @@
 
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=,typescript,tailwind,react,nextjs" />
-      <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,go" /><br>
+<div align="center"  >
+            <img src="https://skillicons.dev/icons?i=typescript,tailwind,react,nextjs" />
+              </br>
+            <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,go" />
 </div>
  
 
