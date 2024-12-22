@@ -18,9 +18,11 @@
             <img src="https://skillicons.dev/icons?i=typescript,tailwind,react,nextjs" />
               </br>
             <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,go" />
+            </br>
+            <img src="./icons/Shadcn-Dark.svg" width="48"> 
             <img src="./icons/ReactQuery-Dark.svg" width="48"> 
              <img src="./icons/Zustand-Dark.svg" width="60"> 
-             <img src="./icons/Shadcn-Dark.svg" width="48"> 
+             
              
              
             
