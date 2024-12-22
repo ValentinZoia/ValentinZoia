@@ -19,7 +19,7 @@
               </br>
             <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,go" />
             <img src="./icons/ReactQuery-Dark.svg" width="48"> 
-             <img src="./icons/Zustand-Dark.svg" width="48"> 
+             <img src="./icons/Zustand-Dark.svg" width="60"> 
             
 </div>
  
