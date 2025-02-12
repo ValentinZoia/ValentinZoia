@@ -21,7 +21,8 @@
             </br>
             <img src="./icons/Shadcn-Dark.svg" width="48"> 
             <img src="./icons/ReactQuery-Dark.svg" width="48"> 
-             <img src="./icons/Zustand-Dark.svg" width="60"> 
+             <img src="./icons/Zustand-Dark.svg" width="60">
+            <img src="./icons/FramerMotion-Dark.svg" width="48">
              
              
              
