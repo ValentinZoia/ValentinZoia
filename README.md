@@ -21,6 +21,7 @@
             </br>
             <img src="https://skills-icons.vercel.app/api/icons?i=shadcnui" width="48"> 
             <img src="./icons/ReactQuery-Dark.svg" width="48"> 
+            <img src="https://skillicons.dev/icons?i=redux" />
              <img src="./icons/Zustand-Dark.svg" width="60">
             <img src="./icons/FramerMotion-Light.svg" width="48">
              
