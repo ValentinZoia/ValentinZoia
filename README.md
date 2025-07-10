@@ -1,14 +1,16 @@
 
-<h1>Hello! I'm Valentin Zoia <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 💻🎨</h2>
-
-### About Me
-- I am 20 years old and I am from Buenos Aires, Argentina.
-- I am a MERN full stack developer.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
 
+
+
+
+
+
+<h3>Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h3>
+I’m Valentin, a full-stack developer based in Argentina.<br>
+I’m a self-taught and highly creative individual who seeks to learn and improve every day.<br>
+I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+ 
 
 
 
