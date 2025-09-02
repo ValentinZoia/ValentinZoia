@@ -6,28 +6,26 @@
 
 
 
-<h3>Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h3>
+<h2>Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 I’m Valentin, a full-stack developer based in Argentina.<br>
 I’m a self-taught and highly creative individual who seeks to learn and improve every day.<br>
-I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+
  
 
 
 
-<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
+
 <div align="center"  >
-            <img src="https://skillicons.dev/icons?i=typescript,tailwind,react,nextjs" />
-              </br>
-            <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,go" />
-            </br>
+ <br>
+            <img src="https://skillicons.dev/icons?i=typescript,tailwind,react,nextjs" />   
             <img src="https://skills-icons.vercel.app/api/icons?i=shadcnui" width="48"> 
             <img src="./icons/ReactQuery-Dark.svg" width="48"> 
             <img src="https://skillicons.dev/icons?i=redux" />
              <img src="./icons/Zustand-Dark.svg" width="60">
             <img src="./icons/FramerMotion-Light.svg" width="48">
-             
-             
+             </br>
+             <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,go" />
              
             
 </div>
