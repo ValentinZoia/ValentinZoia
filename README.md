@@ -25,7 +25,7 @@ I’m a self-taught and highly creative individual who seeks to learn and improv
              <img src="./icons/Zustand-Dark.svg" width="60">
             <img src="./icons/FramerMotion-Light.svg" width="48">
              </br>
-             <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,go" />
+             <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,nestjs,go" />
              
             
 </div>
