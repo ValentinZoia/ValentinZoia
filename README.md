@@ -33,11 +33,11 @@ I’m a self-taught and highly creative individual who seeks to learn and improv
 
 
 <h2>🔥 Main Projects 🔥</h2>
-<div align="center">
- <img src="/images/miniatura-chatapp.png" >
- <img src="/images/miniatura-cuervored.jpg" >
- <img src="/images/miniatura-ecommerce.jpg" >
-</div>
+<p align="center">
+  <a href="https://github.com/ValentinZoia/chatapp"><img src="/images/miniatura-chatapp.png" width="30%" style="max-width: 200px; min-width: 120px; margin: 0 20px;" /></a>
+  <a href="https://github.com/ValentinZoia/cuervored"><img src="/images/miniatura-cuervored.jpg" width="30%" style="max-width: 200px; min-width: 120px; margin: 0 20px;" /></a>
+  <a href="https://github.com/ValentinZoia/e-commerce"><img src="/images/miniatura-ecommerce.jpg" width="30%" style="max-width: 200px; min-width: 120px; margin: 0 520px;" /></a>
+</p>
 
  
 
