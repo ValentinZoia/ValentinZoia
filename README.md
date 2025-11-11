@@ -30,6 +30,15 @@ I’m a self-taught and highly creative individual who seeks to learn and improv
              
             
 </div>
+
+
+<h2>🔥 Main Projects 🔥</h2>
+<div align="center">
+ <img src="/images/miniatura-chatapp.png" >
+ <img src="/images/miniatura-cuervored.jpg" >
+ <img src="/images/miniatura-ecommerce.jpg" >
+</div>
+
  
 
 <h2> 📨 Contact Me 📨</h2>
