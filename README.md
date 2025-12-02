@@ -48,10 +48,10 @@ I’m a self-taught and highly creative individual who seeks to learn and improv
 
 <h2> 📨 Contact Me 📨</h2>
 <div> 
-  <a href="mailto:valentinzoia@gmail.com">
+  <a href="mailto:zoiavalentin.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/valent%C3%ADn-zoia/" target="_blank">
+  <a href="https://www.linkedin.com/in/valentinzoia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
