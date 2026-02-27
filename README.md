@@ -25,8 +25,12 @@ I’m a self-taught and highly creative individual who seeks to learn and improv
              <img src="./icons/Zustand-Dark.svg" width="60">
             <img src="./icons/FramerMotion-Light.svg" width="48">
              </br>
-             <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,nestjs,graphql" />
+             <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,redis,nestjs,graphql" />
              <img src="https://skillicons.dev/icons?i=go" />
+             </br>
+             <img src="https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,serverless,docker,kubernetes,githubactions" />
+            
+</div>
              
             
 </div>
