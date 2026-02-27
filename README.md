@@ -36,21 +36,21 @@ I’m a self-taught and highly creative individual who seeks to learn and improv
 </div>
 
 
-<h2>🔥 Main Projects 🔥</h2>
+<h2>Main Projects</h2>
 <p align="center">
   <a href="https://github.com/ValentinZoia/chatapp"><img src="/images/miniatura-chatapp.png" width="30%" style="max-width: 200px; min-width: 120px; margin: 0 20px;" /></a>
   <a href="https://github.com/ValentinZoia/cuervored"><img src="/images/miniatura-cuervored.png" width="30%" style="max-width: 200px; min-width: 120px; margin: 0 20px;" /></a>
   <a href="https://github.com/ValentinZoia/e-commerce"><img src="/images/miniatura-ecommerce.jpg" width="30%" style="max-width: 200px; min-width: 120px; margin: 0 520px;" /></a>
 </p>
 
-<h2>📓 My Books 📓</h2>
+<h2>My Books</h2>
 <p align="center">
   <a href="https://github.com/ValentinZoia/Libros/blob/main/Arquitecturas%20y%20Patrones%20-%20TypeScript%20-%20ValentinZoia.pdf"><img src="/images/arquitecturas-y-patrones-tapa.png" width="20%" style="max-width: 200px; min-width: 120px; margin: 0 20px;" /></a>
 
 </p>
  
 
-<h2> 📨 Contact Me 📨</h2>
+<h2>Contact Me</h2>
 <div> 
   <a href="mailto:zoiavalentin.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
